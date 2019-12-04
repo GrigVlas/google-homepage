@@ -1,0 +1,1 @@
+This project is a visual copy of the google homepage. It has no functionality, and is supposed to showcase basic proeficiency with HTML and CSS, as well as with Chrome DevTools

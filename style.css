@@ -1,0 +1,49 @@
+body {
+    font-family: arial, sans-serif;
+}
+#mainLogo {
+    text-align: center;
+    height: 233px;
+}
+
+#googleLogo {
+    padding-top: 109px;
+}
+
+#searchField {
+    width: 582px;
+    padding-top: 6px;
+    border: 1px solid #dfe1e5;
+    border-radius: 25px;
+    height: 44px;
+}
+
+#submit-buttons {
+    width: 571px;
+    height: 70px;
+    padding-top: 18px;
+    margin: 0 auto;
+}
+
+.submit {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5f6368;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.submit:hover {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+}
+
+.center-children {
+    text-align: center;
+}
